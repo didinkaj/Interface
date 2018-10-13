@@ -1,3 +1,7 @@
+import InterfacePlayGround.Practice;
+import InterfacePlayGround.Print;
+import InterfacePlayGround.Welcome;
+
 public class Main {
 
     public static void main(String args[]){
